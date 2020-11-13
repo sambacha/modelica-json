@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Modelica-JSON
-email: MWetter@lbl.gov
+title: JSON Schema Viz
+email: noreply@github.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a parser that parses Modelica to JSON, and from JSON to different output formats.
 # Build settings
-url: https://lbl-srg.github.io
+url: https://sambacha.github.io
 baseurl: /modelica-json
 repository: "lbl-srg/modelica-json"
 markdown: kramdown
